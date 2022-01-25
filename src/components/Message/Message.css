@@ -1,0 +1,27 @@
+.toast-container {
+  margin: 0 10px;
+}
+
+.distant-toast-container {
+  margin: 10px 10px 0 10px;
+}
+
+.toast-header {
+  position: relative;
+}
+
+.toast-header small {
+  position: absolute;
+  right: 10px;
+}
+
+.userImg {
+  width: 30px;
+  height: 30px;
+  border-radius: 4px;
+  margin-right: 5px;
+}
+
+.messageData {
+  margin-left: 10px;
+}
