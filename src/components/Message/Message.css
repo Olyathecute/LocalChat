@@ -1,9 +1,11 @@
 .toast-container {
   margin: 0 10px;
+  margin-left: auto;
 }
 
 .distant-toast-container {
   margin: 10px 10px 0 10px;
+  margin-left: auto;
 }
 
 .toast-header {

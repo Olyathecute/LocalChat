@@ -7,7 +7,7 @@ import moment from 'moment'
 function Layout() {
   const users = {
     2345234: {
-      name: 'kek kekkovich',
+      name: 'Ivan Ivanov',
       avatar: 'https://trikky.ru/wp-content/blogs.dir/1/files/2016/12/Avatar_1481048766783.png'
     }
   }
@@ -46,6 +46,8 @@ function Layout() {
             />
           )
         })}
+      </div>
+      <div>
         <Input addMessage={addMessage} />
       </div>
     </div>
